@@ -1,0 +1,3 @@
+S106|Priya Katiyar|CSE|7|priyakatiyar@gmail.com|2025
+S13|Anshika|CSE|3|anshika@gmail.com|2025
+S18|Kavya Singh|CSE|7|kavyasingh@gmail.com|2025

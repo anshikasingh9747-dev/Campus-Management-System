@@ -1,0 +1,5 @@
+B101|Data Structures|Mark Allen Weiss|Computer Science|5
+B102|DBMS|Raghu Ramakrishnan|Computer Science|3
+B103|Data structures and Algorithms|Mark Allen Weiss|Computer Science|5
+B13|CA|B.k|Computer Science|3
+B18|ML|Q.S|Computer Science|4

@@ -1,0 +1,7 @@
+C11|Data Structures|CSE|5|60
+C12|Physics|Computer Science|4|55
+C15|Shikha|AL/ML|5|60
+C101|Data Structures|CSE|5|60
+C202|Data Analytics|CSE|5|60
+C13|CA|CS|3|60
+C18|ML|CSE|7|60
